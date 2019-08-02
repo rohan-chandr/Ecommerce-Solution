@@ -1,5 +1,5 @@
 # Ecommerce Solution
-An e-commerce solution in Python to allow multiple stores to sell multiple products to multiple customers.
+An e-commerce solution in Python to allow multiple stores to sell multiple products to multiple customers using classes.
 
 ## Usage 
 * Download the Repository and run 18F-Rohan.py
