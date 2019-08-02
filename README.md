@@ -8,5 +8,5 @@ An e-commerce solution in Python to allow multiple stores to sell multiple produ
 
 ![Alt-Text](https://github.com/barbeque-sauce/Ecommerce-Solution/blob/master/output.png)
 
-* To test the program, run testcase(18F-Rohan).py
+* To test the program, run testcase(18F-Rohan).py 
 * Both programs require FileReaderRohan.py, so make sure all programs and "Store"/"Test-Store" folders are all in the same directory.
