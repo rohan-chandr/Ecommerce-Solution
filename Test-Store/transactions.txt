@@ -1,0 +1,5 @@
+cust_id|quantity|product_id|store_id
+c01|10|p00|s00
+c03|102|p02|s02
+c02|3|p01|s00
+c03|1|p02|s02

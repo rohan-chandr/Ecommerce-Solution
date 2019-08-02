@@ -1,0 +1,4 @@
+store_id|quantity|product_id
+s00|40|p00
+s00|40|p01
+s02|100|p02
